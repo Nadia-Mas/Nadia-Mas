@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nadia-Mas
-- 👀 I’m interested in Data science, Machine Learing and Computer vision
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Data science, Natural Language Peocessing and Computer vision
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Python excercise
 - 📫 How to reach me fatemeh.masoumi27@gmail.com
 
