@@ -16,9 +16,9 @@ I am a graduate student in Computer Science, and my main interests are Data Scie
 * 🤝  I'm open to collaborating on NLP, Computer Vision, ML and DL tasks.
 * ❤️ I love animals and books
 
-<a href="https://www.twitter.com/NadiaaMasoumi" target="_blank" rel="noreferrer"><img
+p align="center"><a href="https://www.twitter.com/NadiaaMasoumi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/NadiaaMasoumi?logo=twitter&style=for-the-badge&color=3382ed&labelColor=22272e"
-/></a>
+/></a></p>
 ### Skills
 
 <p align="left">
