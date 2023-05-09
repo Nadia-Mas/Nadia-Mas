@@ -10,7 +10,7 @@ I am a graduate student in Computer Science, and my main interests are Data Scie
 * 👂 My name is Nadia
 * 👩 Pronouns: she/her
 * 🌍  I'm based in Iran.
-* ✉️  You can contact me at [fatemehmasoumi912@gmail.com](mailto:nadiaa.masoumi24@gmail.com)
+* ✉️  You can contact me at [nadiaa.masoumi24@gmail.com](mailto:nadiaa.masoumi24@gmail.com)
 * 🔭  I’m currently working on Breast Cancer Survivability Classification.
 * 🧠  I'm learning NLP.
 * 🤝  I'm open to collaborating on NLP, Computer Vision, ML and DL tasks.
