@@ -17,7 +17,7 @@ I am a graduate student in Computer Science, and my main interests are Data Scie
 * ❤️ I love animals and books
 
 <a href="https://www.twitter.com/NadiaaMasoumi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/NadiaaMasoumi?logo=twitter&style=for-the-badge&color=a855f7&labelColor=22272e"
+src="https://img.shields.io/twitter/follow/NadiaaMasoumi?logo=twitter&style=for-the-badge&color=3382ed&labelColor=22272e"
 /></a>
 ### Skills
 
@@ -31,3 +31,10 @@ src="https://img.shields.io/twitter/follow/NadiaaMasoumi?logo=twitter&style=for-
 
 <p align="left"> <a href="https://www.github.com/Nadia-Mas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/tech_supergirl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/fatemeh-sadat-masoumi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/NadiaaMasoumi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
+<!-- <b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Nadia-Mas"><img src="https://github-readme-stats.vercel.app/api?username=Nadia-Mas&show_icons=true&hide=issues,contribs&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&show_icons=true" alt="Nadia-Mas's GitHub stats" /></a>
+
+<a href="http://www.github.com/Nadia-Mas"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nadia-Mas&stroke=ffffff&background=22272e&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/Nadia-Mas"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Nadia-Mas&bg_color=22272e&color=ffffff&line=3382ed&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
