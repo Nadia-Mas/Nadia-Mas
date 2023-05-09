@@ -7,14 +7,14 @@ Computer Scinece Student, Developer
 
 I am a graduate student in Computer Science, and my main interests are Data Science, NLP, and Computer Vision. Mostly, I do code in Python but I am an intermediate C++ user as well.
 
-* 👂 My name is Nadia
+* 👂 My name is Nadia.
 * 👩 Pronouns: she/her
 * 🌍  I'm based in Iran.
 * ✉️  You can contact me at [nadiaa.masoumi24@gmail.com](mailto:nadiaa.masoumi24@gmail.com)
 * 🔭  I’m currently working on Breast Cancer Survivability Classification.
 * 🧠  I'm learning NLP.
 * 🤝  I'm open to collaborating on NLP, Computer Vision, ML and DL tasks.
-* ❤️ I love animals and books
+* ❤️ I love animals and books.
 
 <a href="https://www.twitter.com/NadiaaMasoumi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/NadiaaMasoumi?logo=twitter&style=for-the-badge&color=3382ed&labelColor=22272e"
