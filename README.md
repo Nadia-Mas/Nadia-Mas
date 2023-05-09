@@ -17,7 +17,7 @@ I am a graduate student in Computer Science, and my main interests are Data Scie
 * ❤️ I love animals and books
 
 <a href="https://www.twitter.com/NadiaaMasoumi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/NadiaaMasoumi?logo=twitter&style=for-the-badge&color=ec4899&labelColor=22272e"
+src="https://img.shields.io/twitter/follow/NadiaaMasoumi?logo=twitter&style=for-the-badge&color=a855f7&labelColor=22272e"
 /></a>
 ### Skills
 
@@ -29,12 +29,13 @@ src="https://img.shields.io/twitter/follow/NadiaaMasoumi?logo=twitter&style=for-
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Nadia-Mas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/tech_supergirl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/fatemeh-sadat-masoumi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/NadiaaMasoumi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/Nadia-Mas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/tech_supergirl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/fatemeh-sadat-masoumi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/NadiaaMasoumi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Nadia-Mas"><img src="https://github-readme-stats.vercel.app/api?username=Nadia-Mas&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=22272e&hide_border=true&show_icons=true" alt="Nadia-Mas's GitHub stats" /></a>
+<a href="http://www.github.com/Nadia-Mas"><img src="https://github-readme-stats.vercel.app/api?username=Nadia-Mas&show_icons=true&hide=issues,contribs&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&show_icons=true" alt="Nadia-Mas's GitHub stats" /></a>
 
-<a href="http://www.github.com/Nadia-Mas"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nadia-Mas&stroke=ffffff&background=22272e&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Nadia-Mas"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nadia-Mas&stroke=ffffff&background=22272e&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Nadia-Mas"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Nadia-Mas&bg_color=22272e&color=ffffff&line=ec4899&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Nadia-Mas"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Nadia-Mas&bg_color=22272e&color=ffffff&line=a855f7&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
