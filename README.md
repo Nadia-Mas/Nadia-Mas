@@ -14,7 +14,7 @@ I am a graduate student in Computer Science, and my main interests are Data Scie
 * 🔭  I’m currently working on Breast Cancer Survivability Classification.
 * 🧠  I'm learning NLP.
 * 🤝  I'm open to collaborating on NLP, Computer Vision, ML and DL tasks.
-* ❤️ I love animals and books.
+<!-- * ❤️ I love animals and books. -->
 
 <a href="https://www.twitter.com/NadiaaMasoumi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/NadiaaMasoumi?logo=twitter&style=for-the-badge&color=3382ed&labelColor=22272e"
