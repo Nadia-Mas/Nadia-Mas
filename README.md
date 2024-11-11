@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Ph.D Student
 -----------------------------------
 
-I am a Ph.D. student in Computer Science at UTSA, and my main interests are Data Science, NLP, and Computer Vision especally in area of health, energy, and education. Mostly, I do code in Python but I am an intermediate C++ user as well.
+I am a Ph.D. student in Computer Science at UT, and my main interests are Data Science, NLP, and Computer Vision especally in area of health, energy, and education. Mostly, I do code in Python but I am an intermediate C++ user as well.
 
 * 👂 My name is Nadia.
 * 👩 Pronouns: she/her
