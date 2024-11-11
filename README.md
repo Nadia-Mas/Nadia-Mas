@@ -2,18 +2,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nadia
 =============================================================================================================================
 
-Computer Scinece Student, Developer
+Computer Science Ph.D Student
 -----------------------------------
 
-I am a graduate student in Computer Science, and my main interests are Data Science, NLP, and Computer Vision. Mostly, I do code in Python but I am an intermediate C++ user as well.
+I am a Ph.D. student in Computer Science at UTSA, and my main interests are Data Science, NLP, and Computer Vision especally in area of health, energy, and education. Mostly, I do code in Python but I am an intermediate C++ user as well.
 
 * 👂 My name is Nadia.
 * 👩 Pronouns: she/her
 * 🌍  I'm based in Iran.
 * ✉️  You can contact me at [nadiaa.masoumi24@gmail.com](mailto:nadiaa.masoumi24@gmail.com)
-* 🔭  I’m currently working on Breast Cancer Survivability Classification.
-* 🧠  I'm learning NLP.
-* 🤝  I'm open to collaborating on NLP, Computer Vision, ML and DL tasks.
 <!-- * ❤️ I love animals and books. -->
 
 <a href="https://www.twitter.com/NadiaaMasoumi" target="_blank" rel="noreferrer"><img
