@@ -9,7 +9,7 @@ I am a Ph.D. student in Computer Science at UTSA, and my main interests are Data
 
 * 👂 My name is Nadia.
 * 👩 Pronouns: she/her
-* 🌍  I'm based in Iran.
+* 🌍  I'm based in Texas, USA.
 * ✉️  You can contact me at [nadiaa.masoumi24@gmail.com](mailto:nadiaa.masoumi24@gmail.com)
 <!-- * ❤️ I love animals and books. -->
 
